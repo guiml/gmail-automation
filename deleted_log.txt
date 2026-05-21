@@ -1,0 +1,20 @@
+
+======================================================================
+Deletion Log - 2026-05-21T19:40:50.607801
+======================================================================
+
+Total messages deleted: 2
+
+Message ID: 19e4ce7d149c4c2d
+  Associated Links (1):
+    - https://accounts.google.com/AccountDisavow?adt=AOX8kirSoOSY0s9U-ouhfyu7I7SfOfYcC8PSerGpKi3rdg9VqgB9BMu0OqJdW3j1&rfn=354
+      
+      Status: [SUCCESS] Success
+
+Message ID: 19b66dcc8764d44f
+  Associated Links (1):
+    - https://accounts.google.com/AccountDisavow?adt=AOX8kiohv6L6IkpUzHe9YTZac4QwO9WArHaYcpOTnSVXJMxYime7OWrWG2dDwCA0&rfn=325
+      Status: [FAILED] Remove button not found (link may be expired or already processed)
+
+======================================================================
+

@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Selenium / Drivers
+chromedriver
+geckodriver.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Credentials and sensitive information
+credentials.json
+token.json
+
+# Log files
+*.log
+
+# Results files
+results_*.txt
+
+# Deletion logs
+deleted_log_*.txt
